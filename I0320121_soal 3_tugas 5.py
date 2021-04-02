@@ -19,7 +19,7 @@ if door == "1":
         print(f"Well, doing {bear} is probably better.")
         print("Bear runs away.")
 
-elif door == 2:
+elif door == "2":
     print("You stare into the endless abyss at Cthulhu's retina.")
     print("1. Blueberries.")
     print("2. Yellow jacket clothespins.")
